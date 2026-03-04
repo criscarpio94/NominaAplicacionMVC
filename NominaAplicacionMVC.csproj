@@ -125,6 +125,7 @@
     <Compile Include="Controllers\DepEmpController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SalariesController.cs" />
+    <Compile Include="Controllers\TitlesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -188,6 +189,7 @@
     <Folder Include="Data\" />
     <Folder Include="Views\DepEmp\" />
     <Folder Include="Views\Salaries\" />
+    <Folder Include="Views\Titles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
