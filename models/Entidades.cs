@@ -10,7 +10,7 @@ namespace NominaAplicacionMVC.Models
 		public string DeptName { get; set; }
 	}
 
-
+	//Empleados
 	public class Empleado
 	{
 		public int EmpNo { get; set; }
